@@ -1,4 +1,3 @@
-
 console.log('js connected');
 
 
@@ -160,15 +159,5 @@ grid.forEach(function (g) {
     }
 
 })
-
-
-
-
-
-
-
-
-
-
 
 
