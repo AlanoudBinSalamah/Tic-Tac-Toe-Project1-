@@ -1,0 +1,37 @@
+body{
+
+    background-color:plum;
+    background-image: url("images/smile.png");
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-position: right;
+    padding: 236px;
+    margin: 23px;
+}
+
+h1{
+    font-family:  'Philosopher', sans-serif;
+    position: relative;
+    left: -120px;
+}
+h2{
+    font-family:  'Philosopher', sans-serif;
+    position: relative;
+    left: -120px;
+}
+
+button{
+    background-color: bisque;
+    border-radius: 50px;
+    height: 70px;
+    width: 75px;
+    position: relative;
+    left: -54px;
+    font-family:  'Philosopher', sans-serif;
+    font-size: large;
+   
+}
+.game{
+    position: relative;
+    top: -9px;
+}

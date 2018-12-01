@@ -1,0 +1,77 @@
+
+body{
+    background-color:plum;
+    background-image: url("images/cherry-tree.png") ;
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+
+
+
+
+
+
+.board{
+    width: 50%;
+    height: 410px;
+    display: grid;
+    grid-template: repeat(3,1fr)/repeat(3,1fr);
+    justify-content: center;
+    text-align: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    background-image: url("images/cherry-pedals.png")
+}
+
+.grid{
+background-color:#ffdab966;
+border: 2px solid;
+justify-content: center;
+align-items: center;
+border-radius: 15px;
+border-color: #f6f0f0;
+flex: 0;
+justify-content: center;
+text-align: center;
+font-family: 'Luckiest Guy', cursive;
+
+}
+
+#grid1:hover{
+
+    background-color:lavender;
+}
+
+#grid2:hover{
+
+    background-color:lavender;
+}
+#grid3:hover{
+
+    background-color:lavender;
+}
+#grid4:hover{
+
+    background-color:lavender;
+}
+#grid5:hover{
+
+    background-color:lavender;
+}
+#grid6:hover{
+
+    background-color:lavender;
+}
+#grid7:hover{
+
+    background-color:lavender;
+}
+#grid8:hover{
+
+    background-color:lavender;
+}
+#grid9:hover{
+
+    background-color:lavender;
+}
